@@ -1,6 +1,4 @@
-/**
- * IndiBreed AI - Main UI & Interaction Controller
- * Created by : Abishek BV
+
  */
 
 document.addEventListener('DOMContentLoaded', () => {
