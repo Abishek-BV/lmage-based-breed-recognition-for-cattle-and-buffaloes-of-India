@@ -1,6 +1,3 @@
- 
- */
-
 document.addEventListener('DOMContentLoaded', () => {
     // --- UI Elements ---
     const dropZone = document.getElementById('dropZone');
